@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3.11
 
 from github import Github
 from configparser import ConfigParser
